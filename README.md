@@ -1,2 +1,8 @@
-# rise-mar
-Official repository for the paper "Radiologist-in-the-loop self-training for generalizable metal artifact reduction"
+# RISE-MAR
+Coming soon!
+
+# TODO
+- [ ] Preprint version
+- [ ] Model implementation code
+- [ ] Training code
+- [ ] Model weights
