@@ -3,7 +3,7 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 We are currently cleaning the code. Please stay tuned!
 
 # TODO
-- [ ] Preprint version
+- [x] Preprint version
 - [ ] Model implementation code
 - [ ] Training code
 - [ ] Model weights
