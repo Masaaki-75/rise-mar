@@ -3,8 +3,8 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 ![](./figs/overview.png)
 
 # Highlights
-- A simple yet effective semi-supervised learning framework that ensures high-quality pseudo groundtruths for clinical CT metal artifact reduction (MAR).
-- A pretrained clinical quality assessor (CQA) model that scores the quality of a CT image with potential metal artifacts.
+- A simple yet effective semi-supervised learning framework (termed RISE-MAR) that ensures high-quality pseudo groundtruths for clinical CT metal artifact reduction (MAR).
+- A pretrained clinical quality assessor (termed CQA) model that scores the quality of a CT image with potential metal artifacts.
 
 # TODO
 - [x] Preprint version
