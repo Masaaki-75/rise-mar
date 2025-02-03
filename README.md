@@ -1,6 +1,6 @@
 This is the official repository for the paper "Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction". [[arxiv](https://arxiv.org/abs/2501.15610), [tmi](https://ieeexplore.ieee.org/document/10857416)]
 
-![](figs/overview.png)
+![](./figs/overview.png)
 
 # Highlights
 - A simple yet effective semi-supervised learning framework that ensures high-quality pseudo groundtruths for clinical CT metal artifact reduction (MAR).
