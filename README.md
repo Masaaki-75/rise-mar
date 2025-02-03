@@ -47,25 +47,25 @@ Otherwise, simply gather the file paths for artifact-affected images and artifac
     "ma": {  // For unpaired metal artifact-affected images
         "unique_name_for_case_1": {
             "img": "/path/to/the/artifact/affected/image",
-            "quality": <an integer for the quality score>, // optional
+            "quality": "an integer for the quality score", // optional
             "root_dir": "path/prefix/(optional)"
         },
         // ...
         "unique_name_for_case_n": {
             "img": "/path/to/the/artifact/affected/image",
-            "quality": an integer for the quality score,
+            "quality": "an integer for the quality score",
             "root_dir": "path/prefix/(optional)"
         },
     "mf": {  // For unpaired metal artifact-free images
         "unique_name_for_case_1": {
             "img": "/path/to/the/artifact/free/image",
-            "quality": <an integer for the quality score>, // optional
+            "quality": "an integer for the quality score", // optional
             "root_dir": "path/prefix/(optional)"
         },
         // ...
         "unique_name_for_case_n": {
             "img": "/path/to/the/artifact/free/image",
-            "quality": an integer for the quality score,
+            "quality": "an integer for the quality score",
             "root_dir": "path/prefix/(optional)"
         },
   }
