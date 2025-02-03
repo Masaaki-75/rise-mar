@@ -1,0 +1,72 @@
+{
+  "case1": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case2": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case3": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case4": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case5": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case6": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case7": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case8": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case9": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  },
+  "case10": {
+    "metal_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_ma_02.npy",
+    "li_img": "case1/DICOM-1-PA2-SE2-IM86_Titanium_d8_p10_n4_li_02.npy",
+    "gt_img": "case1/DICOM-1-PA2-SE2-IM86_p10_gt.npy",
+    "metal_mask": "case1/DICOM-1-PA2-SE2-IM86_t1600_n4_mask_02.npy",
+    "root_dir": "./data/dental"
+  }
+}

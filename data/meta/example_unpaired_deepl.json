@@ -1,0 +1,106 @@
+{
+  "ma": {
+    "case1": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case2": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case3": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case4": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case5": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case6": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case7": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case8": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case9": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case10": {
+      "img": "000238-06-01_262.png",
+      "quality": 7,
+      "root_dir": "./data/unpaired_deeplesion"
+    }
+  },
+  "mf": {
+    "case1": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case2": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case3": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case4": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case5": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case6": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case7": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case8": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case9": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    },
+    "case10": {
+      "img": "000134-02-01_052.png",
+      "quality": 10,
+      "root_dir": "./data/unpaired_deeplesion"
+    }
+  }
+}

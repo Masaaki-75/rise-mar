@@ -1,0 +1,72 @@
+{
+  "case1": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case2": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case3": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case4": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case5": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case6": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case7": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case8": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case9": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  },
+  "case10": {
+    "metal_img": "case1/1070_ma_02.npy",
+    "li_img": "case1/1070_li_02.npy",
+    "gt_img": "case1/1070_gt.npy",
+    "metal_mask": "case1/1070_mask_02.npy",
+    "root_dir": "./data/deeplesion"
+  }
+}

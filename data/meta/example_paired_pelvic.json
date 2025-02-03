@@ -1,0 +1,72 @@
+{
+  "case1": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case2": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case3": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case4": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case5": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case6": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case7": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case8": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case9": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  },
+  "case10": {
+    "metal_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_ma.npy",
+    "li_img": "case1/dataset6_CLINIC_0001_data_015_Titanium_d6_p10_li.npy",
+    "gt_img": "case1/dataset6_CLINIC_0001_data_015_p10_gt.npy",
+    "metal_mask": "case1/dataset6_CLINIC_0001_data_015_mask.npy",
+    "root_dir": "./data/ctpelvic1k"
+  }
+}
