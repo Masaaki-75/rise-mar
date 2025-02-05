@@ -73,10 +73,10 @@ We refer to "baseline models" as models that produce imperfect prediction for cl
 - Models with limited domain transferability (e.g., can handle simulated metal artifacts very well but perform poor MAR on real data)
 - ...
 
-These models are actually still useful! In our work, they:
+Turns out that they are still useful! In our work, they:
 - serve as undertrained MAR models that provide CT images with low-to-moderate quality, <u>greatly enhancing the diversity of our clinical quality assessment dataset</u>.
 - provide <u>better network initialization</u>, which often leads to a more stable training process for unsupervised or semisupervised methods.
-- serve as prior models, i.e., teacher network in the paper. A stronger prior model certainly perform better MAR, but with our RISE-MAR framework, we can still employ an imperfect one while expecting satisfactory MAR results ;) 
+- serve as the prior model, i.e., teacher network in our paper. A stronger prior model certainly perform better MAR, but with our RISE-MAR framework, we can still employ an imperfect one while expecting satisfactory MAR results ;) 
 - ...
 
 As an example of training script, please run:
