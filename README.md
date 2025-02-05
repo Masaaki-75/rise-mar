@@ -107,7 +107,7 @@ bash scripts/train_risemar.sh
 If you find our work and code helpful, please kindly cite our paper :blue_heart:
 
 ```bibtex
-@ARTICLE{clma2024risemar,
+@ARTICLE{ma2025risemar,
   author={Ma, Chenglong and Li, Zilong and Li, Yuanlin and Han, Jing and Zhang, Junping and Zhang, Yi and Liu, Jiannan and Shan, Hongming},
   journal={IEEE Transactions on Medical Imaging}, 
   title={Radiologist-in-the-Loop Self-Training for Generalizable {CT} Metal Artifact Reduction}, 
