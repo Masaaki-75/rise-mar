@@ -14,7 +14,7 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 - [x] Preprint released
 - [x] Core model implementation
 - [x] Training code available
-- [x] Pretrained CQA model weights
+- [x] Pretrained CQA model weights [[download](https://github.com/Masaaki-75/rise-mar/releases/tag/v0.1)][[demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)]
 
 
 ## Implementation Guide
