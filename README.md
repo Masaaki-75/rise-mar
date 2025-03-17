@@ -14,7 +14,7 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 - [x] Preprint released
 - [x] Core model implementation
 - [x] Training code available
-- [ ] CQA model weights
+- [x] Pretrained CQA model weights
 
 
 ## Implementation Guide
