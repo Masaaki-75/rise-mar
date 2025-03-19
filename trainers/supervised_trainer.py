@@ -113,8 +113,11 @@ class SupervisedMARTrainer(BasicMARTrainer):
             use_spectrals=[True,True,True,False,False])
         self.quality_assessor = CQA(**net_dict)
         quality_checkpath = PRETRAINED_CQA_PATH
-        self.quality_assessor.load_state_dict(torch.load(quality_checkpath, map_location='cpu')['net'])
-        self.quality_assessor = self.quality_assessor.to(self.device)
+        state_dict = torch.load(quality_checkpath, map_location='cpu')
+        if 'net' in state_dict.keys():  # Adapt to BasicMARTrainer's setting of saving checkpoint.
+            state_dict = state_dict['net']
+        self.quality_assessor.load_state_dict(state_dict)
+        self.quality_assessor = self.quality_assessor.eval().to(self.device)
     
     def move_network_to_cuda(self, net):
         net = net.to(self.device)
