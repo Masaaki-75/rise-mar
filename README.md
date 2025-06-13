@@ -114,9 +114,9 @@ If you find our work and code helpful, please kindly cite our paper :blue_heart:
   journal={IEEE Transactions on Medical Imaging}, 
   title={Radiologist-in-the-Loop Self-Training for Generalizable {CT} Metal Artifact Reduction}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={44},
+  number={6},
+  pages={2504-2514},
   doi={10.1109/TMI.2025.3535906}
 }
 ```
