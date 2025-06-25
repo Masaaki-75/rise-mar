@@ -17,7 +17,7 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 - **Clinical Quality Assessor (CQA)**: A pretrained model that evaluates the quality of CT images potentially affected by metal artifacts.
 
 ## Demo 📽
-We have now uploaded the weights of CQA and RISE-MAR on our [huggingface 🤗](https://huggingface.co/massaki75/RISE-MAR/tree/main)! Try them as in our [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)!
+We have now uploaded the weights of CQA model and RISE-MAR model (preview version) on [huggingface 🤗](https://huggingface.co/massaki75/RISE-MAR/tree/main)! Try them as in our [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)!
 
 
 ## Project Status 📊
@@ -29,7 +29,7 @@ We have now uploaded the weights of CQA and RISE-MAR on our [huggingface 🤗](h
 
 
 ## Implementation Guide🛠️
-To implement the full version of RISE-MAR, follow these steps:
+To implement the full version of RISE-MAR using your own data, follow these steps:
 
 
 ### 1. Data Preparation
