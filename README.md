@@ -1,7 +1,14 @@
-# RISE-MAR: Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction
+<div align="center">
+<h1>
+  RISE-MAR: Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction
+</h1>
+</div>
 
+<p align="center">
+📝 Paper (<a href="https://arxiv.org/abs/2501.15610">Arxiv</a>, <a href="https://ieeexplore.ieee.org/document/10857416" target="_blank">TMI</a>) • 🤗 <a href="https://huggingface.co/massaki75/RISE-MAR/tree/main" target="_blank">Hugging Face</a> • 🧩 <a href="https://github.com/Masaaki-75/rise-mar" target="_blank">Github</a>
+</p>
 
-This is the official repository for the paper "Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction". [[arxiv](https://arxiv.org/abs/2501.15610), [tmi](https://ieeexplore.ieee.org/document/10857416)]
+This is the official repository for the paper "Radiologist-in-the-Loop Self-Training for Generalizable CT Metal Artifact Reduction". 
 
 ![](./figs/overview.png)
 
@@ -10,20 +17,19 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 - **Clinical Quality Assessor (CQA)**: A pretrained model that evaluates the quality of CT images potentially affected by metal artifacts.
 
 ## Demo 📽
-We have now uploaded the weights of CQA and RISE-MAR on our [huggingface page](https://huggingface.co/massaki75/RISE-MAR/tree/main)! Try them as in our [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)!
+We have now uploaded the weights of CQA and RISE-MAR on our [huggingface 🤗](https://huggingface.co/massaki75/RISE-MAR/tree/main)! Try them as in our [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)!
 
 
 ## Project Status 📊
 - [x] Preprint released
 - [x] Core model implementation
 - [x] Training code available
-- [x] Pretrained CQA model weights [[download](https://huggingface.co/massaki75/RISE-MAR/tree/main), [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)]
-- [x] Preview RISE-MAR model weights [[download](https://huggingface.co/massaki75/RISE-MAR/tree/main), [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)]
+- [x] [Pretrained CQA model weights](https://huggingface.co/massaki75/RISE-MAR/tree/main)
+- [x] [Preview RISE-MAR model weights](https://huggingface.co/massaki75/RISE-MAR/tree/main)
 
 
 ## Implementation Guide🛠️
 To implement the full version of RISE-MAR, follow these steps:
-
 
 
 ### 1. Data Preparation
