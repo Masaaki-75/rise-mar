@@ -11,9 +11,8 @@ class RiseMARNet(nn.Module):
     A re-implementation of the MAR network described in "Unsupervised CT Metal Artifact 
     Learning using Attention-guided $beta$-CycleGAN (TMI, 2021)"
     """
-    def __init__(self, in_channels, out_channels, base_channels=64, norm_type='INSTANCE', act_type='RELU', global_skip=False):
+    def __init__(self, in_channels, out_channels, base_channels=64, norm_type='INSTANCE', act_type='RELU'):
         super().__init__()
-        self.global_skip = global_skip
         num_channels = [base_channels * 2 ** i for i in range(4)]
         self.num_channels = num_channels
         self.in_channels = in_channels
@@ -93,8 +92,6 @@ class RiseMARNet(nn.Module):
         u = torch.cat([s1, u], dim=1)  # [B, 128, H, W]
         u = self.up_block1(u)  # [B, 64, H, W]
         u = self.out_conv(u)  # [B, 1, H, W]
-        if self.global_skip:
-            u = u + x[:,:1]
         
         return u
     
