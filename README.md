@@ -5,19 +5,23 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 
 ![](./figs/overview.png)
 
-## Highlights
+## Highlights 💡
 - **RISE-MAR Framework**: A semi-supervised learning framework that ensures high-quality pseudo groundtruths for clinical CT metal artifact reduction (MAR).
-- **Clinical Quality Assessor (CQA)**: A pretrained model that evaluates the quality of CT images potentially affected by metal artifacts
+- **Clinical Quality Assessor (CQA)**: A pretrained model that evaluates the quality of CT images potentially affected by metal artifacts.
+
+## Demo 📽
+We have now uploaded the weights of CQA and RISE-MAR on our [huggingface page](https://huggingface.co/massaki75/RISE-MAR/tree/main)! Try them as in our [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)!
 
 
-## Project Status
+## Project Status 📊
 - [x] Preprint released
 - [x] Core model implementation
 - [x] Training code available
-- [x] Pretrained CQA model weights [[download](https://github.com/Masaaki-75/rise-mar/releases/tag/v0.1), [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)]
+- [x] Pretrained CQA model weights [[download](https://huggingface.co/massaki75/RISE-MAR/tree/main), [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)]
+- [x] Preview RISE-MAR model weights [[download](https://huggingface.co/massaki75/RISE-MAR/tree/main), [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)]
 
 
-## Implementation Guide
+## Implementation Guide🛠️
 To implement the full version of RISE-MAR, follow these steps:
 
 
@@ -105,7 +109,7 @@ bash scripts/train_risemar.sh
 ```
 
 
-## Citation
+## Citation📄
 If you find our work and code helpful, please kindly cite our paper :blue_heart:
 
 ```bibtex
