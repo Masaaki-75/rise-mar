@@ -20,6 +20,22 @@ This is the official repository for the paper "Radiologist-in-the-Loop Self-Trai
 We have now uploaded the weights of CQA model and RISE-MAR model (preview version) on [huggingface 🤗](https://huggingface.co/massaki75/RISE-MAR/tree/main)! Try them as in our [demo](https://github.com/Masaaki-75/rise-mar/blob/main/demo.ipynb)!
 
 
+## Citation📄
+If you find our work and code helpful, please kindly cite our paper :blue_heart:
+
+```bibtex
+@ARTICLE{ma2025risemar,
+  author={Ma, Chenglong and Li, Zilong and Li, Yuanlin and Han, Jing and Zhang, Junping and Zhang, Yi and Liu, Jiannan and Shan, Hongming},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Radiologist-in-the-Loop Self-Training for Generalizable {CT} Metal Artifact Reduction}, 
+  year={2025},
+  volume={44},
+  number={6},
+  pages={2504-2514},
+  doi={10.1109/TMI.2025.3535906}
+}
+```
+
 ## Project Status 📊
 - [x] Preprint released
 - [x] Core model implementation
@@ -114,19 +130,3 @@ Adjust the arguments in `scripts/train_risemar.sh` as needed, then run:
 bash scripts/train_risemar.sh
 ```
 
-
-## Citation📄
-If you find our work and code helpful, please kindly cite our paper :blue_heart:
-
-```bibtex
-@ARTICLE{ma2025risemar,
-  author={Ma, Chenglong and Li, Zilong and Li, Yuanlin and Han, Jing and Zhang, Junping and Zhang, Yi and Liu, Jiannan and Shan, Hongming},
-  journal={IEEE Transactions on Medical Imaging}, 
-  title={Radiologist-in-the-Loop Self-Training for Generalizable {CT} Metal Artifact Reduction}, 
-  year={2025},
-  volume={44},
-  number={6},
-  pages={2504-2514},
-  doi={10.1109/TMI.2025.3535906}
-}
-```
